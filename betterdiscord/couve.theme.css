@@ -7,7 +7,9 @@
 */
 
 @import url("https://nyri4.github.io/Couve/betterdiscord/app.css");
-
+root {
+--background-image: url('https://i.ibb.co/BjWtL5y/final.jpg');
+--background-image-blur: 0px;}
 /* Settings */
 :root {
   --version: "2.3.0";
